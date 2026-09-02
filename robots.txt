@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://identiq-in.github.io/identiq-docs/sitemap.xml
